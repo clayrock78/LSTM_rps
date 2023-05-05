@@ -59,5 +59,6 @@ for opponent in opponents:
 
         buff += t1 + "\n" + t2 + "\n\n"
 
-with open("gen_huger.txt", "w") as f:
-    f.write(buff)
+    with open("gen_huger1.txt", "a") as f:
+        f.write(buff)
+        buff = ""
