@@ -1,7 +1,8 @@
 # Purpose
 The goal of this project is to make a winning strategy for PLTW CSE Rock Paper Scissors. 
-
 The network uses LSTM to do pattern detection and attempts to guess the opponent's next move.
+
+I am no longer a CSE student, but I wanted to see if I could make a network that would destroy.
 
 ## Inputs 
 Last 10 moves (opponent's and network's) (3 booleans, one for rock, one for paper, one for scissors)
